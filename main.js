@@ -35,7 +35,7 @@ function SUM(id1, id2){
             //B2: Điều kiện lặp
         while (soN <= n){
             //B3: Khối lệnh thực thi
-        Sum += x *soN;
+        Sum += x ** soN;
             //B4: Thay đổi điều kiện lặp
         soN++;
         }
